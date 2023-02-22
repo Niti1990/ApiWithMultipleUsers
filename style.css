@@ -1,0 +1,15 @@
+.demo {
+	display: flex;
+	border: 2px solid black;
+}
+.user {
+	font-size: 10px;
+	flex-basis: 400px;
+	border: 2px solid green;
+	text-align: center;
+	margin: 30px;
+	padding: 10px;
+	display: block;
+	/* margin-top: auto;
+	margin-right: auto; */
+}
